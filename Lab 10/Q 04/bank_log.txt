@@ -1,0 +1,12 @@
+Username: baria_08
+Account Number: 1234
+Withdrawal Amount: 900.22
+--------------------
+Username: barira_08
+Account Number: 12344555
+Withdrawal Amount: 89003.45
+--------------------
+Username: fatime_762\
+Account Number: 98765
+Withdrawal Amount: 654.39
+--------------------
